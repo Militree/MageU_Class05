@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<MageU_Class05>
+			<active>true</active>
+			<codePool>local</codePool>
+		</MageU_Class05>
+	</modules>
+</config>
